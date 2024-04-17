@@ -109,3 +109,6 @@ git push (REMOTE) (BRANCH)
 
 Download the content from a remote repository
 git pull REMOTE
+
+Clone Repo
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
